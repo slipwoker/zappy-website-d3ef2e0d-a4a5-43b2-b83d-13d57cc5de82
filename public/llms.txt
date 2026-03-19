@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מקלט אורט 4 הוא המקלט היפה בכפר סבא, שבו כל בעל חיים מחכה לבית חם ואוהב. בואו לאמץ, להציל ולשנות חיים — שלכם ושלו. גלו את הכלבים והחתולים הממתינים לכם עוד היום!
+
+### אודות
+https://example.com/about
+הכירו את הצוות הנלהב של מקלט אורט 4 — אנשים שהקדישו את חייהם לרווחת בעלי החיים בכפר סבא. גלו את הסיפור שלנו, את הערכים שמנחים אותנו ולמה אנחנו המקלט האהוב בעיר.
+
+### מדריך אימוץ
+https://example.com/adoption
+מדריך האימוץ המלא שלנו יעביר אתכם בצורה קלה ונעימה דרך כל שלבי תהליך האימוץ. אמצו כלב או חתול מכפר סבא ותנו לבעל חיים מחכה את הבית שהוא ראוי לו — התחילו עכשיו!
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות על אימוץ, התנדבות או תרומה למקלט אורט 4 בכפר סבא? צרו איתנו קשר עוד היום ונשמח לעזור. כי כל שיחה יכולה להיות ההתחלה של סיפור אהבה חדש עם בעל חיים.
+
+### Products
+https://example.com/products
+המוצרים שלנו - מקלט אורט 4
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - מקלט אורט 4
+
+### Category
+https://example.com/category/:slug
+מוצרים - מקלט אורט 4
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
